@@ -11,4 +11,8 @@ public void testcase_method(){
 public void testcase1_method(){
 	System.out.println("Method1");
 }
+@Test
+public void testcase12method(){
+	System.out.println("Method1");
+}
 }
